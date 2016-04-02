@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:16:1-99:12
+	package
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:17:5-30
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:23:22-76
+application
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:25:5-98:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.10.1] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.1\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:30:9-35
+	android:allowBackup
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:31:9-51
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:35:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:38:9-107
+	android:value
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:38:66-105
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:38:20-65
+activity#com.mysampleapp.SplashActivity
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:42:13-45
+	android:configChanges
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:43:13-83
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:41:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:49:9-75
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:49:19-63
+activity#com.mysampleapp.MainActivity
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:51:13-41
+activity#com.mysampleapp.MapsActivity
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:56:13-32
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:55:13-41
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:67:9-124
+	android:enabled
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:67:99-121
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:67:18-98
+service#com.amazonaws.mobile.downloader.service.DownloadService
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:69:9-91
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:69:18-88
+receiver#com.amazonaws.mobile.downloader.service.NetworkStateListener
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:71:9-77:20
+	android:enabled
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:73:19-42
+	android:exported
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:72:19-43
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:71:19-94
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:74:13-76:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:75:17-78
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:75:25-76
+provider#com.amazonaws.mobile.downloader.query.DownloadQueueProvider
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:79:9-84:20
+	android:authorities
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:81:13-76
+	android:enabled
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:82:13-35
+	android:exported
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:80:6-80
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:86:9-94:20
+	android:authorities
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:88:13-74
+	android:grantUriPermissions
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:90:13-47
+	android:exported
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:87:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:91:13-93:66
+	android:resource
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:93:17-63
+	android:name
+		ADDED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml:92:17-67
+uses-sdk
+INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.10.1] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Derek\Documents\UVA\CS4720\MobileFinal\MySampleApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:22:13-58

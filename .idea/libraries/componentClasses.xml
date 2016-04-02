@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="componentClasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MySampleApp/app/build/intermediates/multi-dex/debug/componentClasses.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

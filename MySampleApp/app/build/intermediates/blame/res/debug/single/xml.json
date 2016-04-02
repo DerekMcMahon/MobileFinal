@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\content_delivery_paths.xml",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\src\\main\\res\\xml\\content_delivery_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\content_delivery_paths.xml",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\src\\main\\res\\xml\\content_delivery_paths.xml"
+    }
+]

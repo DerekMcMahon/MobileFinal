@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\splash_icon.png",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\MobileFinal\\MySampleApp\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\splash_icon.png",
+        "source": "C:\\Users\\Derek\\Documents\\UVA\\CS4720\\Mobile-Final-aws-my-sample-app-android\\MySampleApp\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    }
+]
